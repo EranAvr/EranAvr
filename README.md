@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eran Avraham
-- 👀 I’m interested in Software-developing and AI
+- 👀 I’m interested in Software-Developing and AI
 - 🌱 I’m currently study Computer Science
 - 💞️ I’m looking to collaborate on any interesting projects and challenges
 - 📫 Reach me: eran4231@gmail.com
